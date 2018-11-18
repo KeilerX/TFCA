@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[61]:
-
-
 import math
 import heapq as hq
 import csv
@@ -11,9 +5,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from mpl_toolkits.basemap import Basemap
 from datetime import datetime
-
-
-# In[74]:
 
 
 start_time = datetime.now()

@@ -230,4 +230,4 @@ Las conclusiones del proyecto son las siguientes:
 
 •El problema del TSP, el cual nos indica que debemos recorrer toda una trama de puntos en la distancia más corta, nos ayuda a entender mejor y comprender problemas cotidianos, en los cuales debemos tener en cuenta los recursos, distancia, tiempo y dinero que se invertirán para llegar de un lugar a otro.
 
-•El algoritmo Kruskal es un ejemplo de algoritmo Greedy, por lo que no siempre se encontrará la mejor solución, si no que nos ayudará a encontrar una solución rasonalbe y en un tiempo rasonable. Teniendo como complejidad O(ElogE) o O(ElogV).
+•El algoritmo Kruskal es un ejemplo de algoritmo Greedy, por lo que no siempre se encontrará la mejor solución, si no que nos ayudará a encontrar una solución en un tiempo rasonable. Teniendo como complejidad O(ElogE) o O(ElogV).

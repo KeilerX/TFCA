@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[3]:
-
-
 import math
 import heapq as hq
 import csv
